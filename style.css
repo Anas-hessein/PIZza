@@ -1,0 +1,27 @@
+body{
+    background-color: darkkhaki;
+    text-align: center;}
+
+img{
+    border-radius: 0%;
+    scale: 110%;
+    height: fit-content;
+    width: fit-content;
+
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+video{
+    border-radius: 50%;
+    scale: 20%;
+}
+body2{
+    text-align: right;
+}
+body3{
+    text-align: center;
+}
+body4{
+    text-align: left;
+}
